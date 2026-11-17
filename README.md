@@ -12,3 +12,5 @@ health & insurance. Installable on iPhone, Android and tablets.
 ## Deploy
 Vercel imports this repo as a static site (Framework: Other, no build command).
 Supabase connection details live in `config.js`.
+
+Live app: https://household-budget-respiratoria.vercel.app
